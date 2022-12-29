@@ -1,0 +1,37 @@
+#fristpara{
+    background-color: rgb(230, 103, 103);
+    height: 100px;
+    width: 455px;
+    border: 20px solid aquamarine;
+    /* border-width: 20px;
+    border-color: aquamarine;
+    border-style: solid; */
+    border-radius: 12px;
+}
+
+#secondpara{
+    background-color: rgb(103, 215, 230);
+    height: 100px;
+    width: 455px;
+    border-top: 20px solid black;
+    border-right: 20px solid rgb(223, 20, 20);
+    border-bottom: 20px solid rgb(25, 0, 255);
+    border-left: 20px solid rgb(255, 17, 251);
+    border-top-left-radius: 12px;
+    border-top-right-radius: 23px;
+    border-bottom-left-radius: 44px;
+    border-bottom-right-radius: 55px;
+}
+
+#thirdpara{
+    height: 450px;
+    width: 455px;
+    background-image: url("download.png");
+    border: 2px solid red;
+    background-repeat: no-repeat; /* REPEAT-X AND REPEAT-Y WILL MAKE IT REPEAT ON X AND Y AXIS */
+    /* background-position: center top; */
+    /* background-position: center right; */
+    /* background-position: center left; */
+    /* background-position: center center; */
+    background-position: 122px 122px;
+}
